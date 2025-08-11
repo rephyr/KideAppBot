@@ -1,5 +1,4 @@
 """
-Kide.App.Bot.By.ES VERSIO 1.2
 
 This Python script automates the process of logging into the kide.app website and refreshing the page until a ticket is available for purchase. 
 Once a ticket is available, the script will automatically add it to the shopping cart.
