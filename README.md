@@ -1,5 +1,5 @@
 # KideAppBot
-**NOT WORKING**
+**NOT WORKING SEE LIMITATIONS**
 ## Features
 
 - Logs into kide.app using provided email and password.
